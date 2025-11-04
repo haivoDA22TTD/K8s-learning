@@ -7,23 +7,6 @@ Dự án này là một ứng dụng **Fullstack** được xây dựng bằng *
 
 ---
 
-## 🧩 Kiến trúc hệ thống
-
-  Frontend │
-│ React + Vite (Port 5173) │
-└──────────────┬────────────────┘
-│ REST API
-┌──────────────▼────────────────┐
-│ Backend │
-│ Node.js + Express (Port 5000)│
-└────────────────▼──────────────┘
-                  
-┌───────▼───────┐  ┌─────▼────────  
-│ |MongoDB │     | |  │ Redis │   |
-│ (Data Storage) │ │ (Cache) │    |
-└────────────────┘ └──────────────┘
-
-
 ## 🛠️ Công nghệ sử dụng
 
 | Biểu tượng | Công nghệ | Mô tả |
