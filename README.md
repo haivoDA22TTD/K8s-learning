@@ -43,7 +43,7 @@ Dự án này là một ứng dụng **Fullstack** được xây dựng bằng *
   ```
 ## 📈 Roadmap / Mở rộng
 ### 🤖 GitHub Actions CI/CD
-**github/workflows/ci-cd.yml**
+**.github/workflows/ci-cd.yml**
   ```bash
     name: CI/CD Pipeline
 
